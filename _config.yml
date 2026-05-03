@@ -17,7 +17,7 @@ github_username: "Comrade-Leon"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "hacker"
+theme: "jekyell_theme_hacker"
 
 rss: rss
 
