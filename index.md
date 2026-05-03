@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Communist writings and critiques from a Marxist-Leninist-Maoist.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hasta Victoria Siempre
